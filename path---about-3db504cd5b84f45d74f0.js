@@ -1,0 +1,2 @@
+webpackJsonp([0xf927f8900006],{830:function(t,o){t.exports={data:{page:{id:"C:/Users/Polun/blog/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",html:"<h2>大家好</h2>",frontmatter:{title:"About"}},footnote:{id:"C:/Users/Polun/blog/content/parts/footnote.md absPath of file >>> MarkdownRemark",html:'<ul>\n<li>built by <a href="https://www.greglobinski.com">Polun Lin</a></li>\n</ul>'},site:{siteMetadata:{facebook:{appId:"1324449741405349"}}}},pathContext:{slug:"/about/"}}}});
+//# sourceMappingURL=path---about-3db504cd5b84f45d74f0.js.map
