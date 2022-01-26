@@ -9,10 +9,10 @@ module.exports = {
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
+  authorName: "Polun Lin",
   authorTwitterAccount: "greglobinski",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "Polun Lin",
   infoTitleNote: "personal blog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
@@ -22,7 +22,7 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "polunlin1019@gmail.com",
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/greglobinski" },

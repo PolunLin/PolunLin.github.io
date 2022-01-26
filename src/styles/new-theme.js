@@ -2,7 +2,6 @@
 
 import { createMuiTheme } from "@material-ui/core/styles";
 import Color from "color";
-
 import colors from "./new-colors";
 
 const theme = createMuiTheme({
@@ -150,7 +149,6 @@ const theme = createMuiTheme({
     primary: {
       main: "#709425"
     },
-    type: "dark",
     action: {
       hover: "rgba(0, 0, 0, 0.01)"
     }

@@ -5,14 +5,10 @@ import colors from "./colors";
 const theme = createMuiTheme({
   base: {
     colors: {
-      background: colors.background,
-      text: colors.dark,
       link: colors.accent,
       linkHover: Color(colors.accent)
         .lighten(0.1)
-        .string(),
-      accent: colors.accent,
-      lines: colors.superLightGray
+        .string()
     },
     sizes: {
       linesMargin: "20px"
@@ -59,7 +55,7 @@ const theme = createMuiTheme({
   },
   main: {
     colors: {
-      background: colors.background,
+      background: "#dddddd" ,
       title: colors.gray,
       subTitle: colors.gray,
       meta: colors.gray,

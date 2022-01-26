@@ -108,7 +108,7 @@ You should take a look at this: [Gatsby on Windows](https://www.gatsbyjs.org/doc
 
 ## Authors
 
-- Greg Lobinski [@greglobinski](https://github.com/greglobinski)
+- Polun Lin [@greglobinski](https://github.com/greglobinski)
 
 See also the list of [contributors](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors) who participated in this project.
 
@@ -124,7 +124,7 @@ See also the list of [contributors](https://github.com/greglobinski/gatsby-start
 
 MIT License
 
-Copyright (c) 2017 gatsbyjs <br />Copyright (c) 2018 greg lobinski
+Copyright (c) 2017 gatsbyjs <br />Copyright (c) 2018 Polun Lin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
